@@ -1,4 +1,4 @@
-import java.util.*;
+import java.util.*;https://github.com/Molotov13/ArrayListAssignment2/blob/main/ArrayListAssignment2
 class Main{
   public static ArrayList<Integer> EraSieve(int n){
     int[] nums = new int[n];
